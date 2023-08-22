@@ -3,8 +3,8 @@
 ## Contenido
 ~~~
 Proyecto React que consiste en mostrar en tabla los valores 
-de las criptomonedas más populares del mundo. Se consume la API  
-https://www.coingecko.com/ a través de Axios. 
+de las criptomonedas más populares del mundo, sus valores más altos y bajos en las últimas 24 horas. 
+Se consume la API https://www.coingecko.com/ a través de Axios. 
 El proyecto contiene uso de clases e iconos de Bootstrap 5 para el diseño, 
 uso de paginación que no permite perder la página actual al refrescar
 el navegador.
